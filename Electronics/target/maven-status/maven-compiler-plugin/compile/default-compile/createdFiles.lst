@@ -1,0 +1,11 @@
+com\shop\model\Category_.class
+com\shop\model\CategoryDao.class
+com\shop\model\Product_.class
+com\shop\model\Category.class
+com\shop\model\Orders_.class
+com\shop\controller\AdminController.class
+com\shop\model\Product.class
+com\shop\model\ProductDao.class
+com\shop\model\Orders.class
+com\shop\controller\SiteController.class
+com\shop\model\OrdersDao.class
